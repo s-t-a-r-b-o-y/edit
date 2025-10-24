@@ -1,0 +1,12 @@
+# Maven build directory
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA configuration files
+.idea/
+*.iml
+out/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
